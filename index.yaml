@@ -1,0 +1,29 @@
+apiVersion: v1
+entries:
+  teleport-cluster:
+  - apiVersion: v2
+    appVersion: "6"
+    created: "2021-04-26T12:04:53.119704-07:00"
+    description: Teleport is a unified access plane for your infrastructure
+    digest: 5db010021b0439f49a8ea94b00578fa42e95a62b681157d706bfd507b00dda04
+    icon: https://goteleport.com/images/logos/logo-teleport-square.svg
+    keywords:
+    - Teleport
+    name: teleport-cluster
+    urls:
+    - https://timothy-spencer.github.io/helm-charts/teleport-cluster-6.0.0.tgz
+    version: 6.0.0
+  teleport-kube-agent:
+  - apiVersion: v2
+    appVersion: "6"
+    created: "2021-04-26T12:04:53.120973-07:00"
+    description: Teleport provides a secure SSH and Kubernetes remote access solution that doesn't get in the way.
+    digest: 083e9f37abd54188da1f8e57c4f52289e849fe84b44be399315d2a48bfb974a2
+    icon: https://goteleport.com/images/logos/logo-teleport-square.svg
+    keywords:
+    - Teleport
+    name: teleport-kube-agent
+    urls:
+    - https://timothy-spencer.github.io/helm-charts/teleport-kube-agent-0.0.4.tgz
+    version: 0.0.4
+generated: "2021-04-26T12:04:53.094954-07:00"
