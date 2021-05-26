@@ -3,7 +3,7 @@ entries:
   teleport-cluster:
   - apiVersion: v2
     appVersion: "6"
-    created: "2021-04-27T15:58:49.462936-07:00"
+    created: "2021-05-26T10:34:36.059528-07:00"
     description: Teleport is a unified access plane for your infrastructure
     digest: 0de679d3060b7c847eeaecff771d70d66c68f451a5a106efc485fac36e3f1091
     icon: https://goteleport.com/images/logos/logo-teleport-square.svg
@@ -13,10 +13,34 @@ entries:
     urls:
     - https://timothy-spencer.github.io/helm-charts/teleport-cluster-6.0.0.tgz
     version: 6.0.0
+  - apiVersion: v2
+    appVersion: "6"
+    created: "2021-05-26T10:34:36.060523-07:00"
+    description: Teleport is a unified access plane for your infrastructure
+    digest: 8ff870c387c8963cdfa07ed04d381d459066bca5c5a4b9cba6f0eedb34c163bf
+    icon: https://goteleport.com/images/logos/logo-teleport-square.svg
+    keywords:
+    - Teleport
+    name: teleport-cluster
+    urls:
+    - https://timothy-spencer.github.io/helm-charts/teleport-cluster-6.tgz
+    version: "6"
   teleport-kube-agent:
   - apiVersion: v2
     appVersion: "6"
-    created: "2021-04-27T15:58:49.465405-07:00"
+    created: "2021-05-26T10:34:36.062281-07:00"
+    description: Teleport provides a secure SSH and Kubernetes remote access solution that doesn't get in the way.
+    digest: fe28b34f1a75dd927e64ad5bddfb028e1c2b371feeb9095952cf4829583234de
+    icon: https://goteleport.com/images/logos/logo-teleport-square.svg
+    keywords:
+    - Teleport
+    name: teleport-kube-agent
+    urls:
+    - https://timothy-spencer.github.io/helm-charts/teleport-kube-agent-6.tgz
+    version: "6"
+  - apiVersion: v2
+    appVersion: "6"
+    created: "2021-05-26T10:34:36.06156-07:00"
     description: Teleport provides a secure SSH and Kubernetes remote access solution that doesn't get in the way.
     digest: 6703ba076e74b26c530127464f8aaebdac0367a73ea086dfaacb3ae153f8e6eb
     icon: https://goteleport.com/images/logos/logo-teleport-square.svg
@@ -26,4 +50,4 @@ entries:
     urls:
     - https://timothy-spencer.github.io/helm-charts/teleport-kube-agent-0.0.4.tgz
     version: 0.0.4
-generated: "2021-04-27T15:58:49.455221-07:00"
+generated: "2021-05-26T10:34:36.057473-07:00"
