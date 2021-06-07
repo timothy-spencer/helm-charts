@@ -3,7 +3,7 @@ entries:
   teleport-cluster:
   - apiVersion: v2
     appVersion: "6"
-    created: "2021-06-07T16:26:22.4543-07:00"
+    created: "2021-06-07T16:39:34.875278-07:00"
     description: Teleport is a unified access plane for your infrastructure
     digest: 0de679d3060b7c847eeaecff771d70d66c68f451a5a106efc485fac36e3f1091
     icon: https://goteleport.com/images/logos/logo-teleport-square.svg
@@ -15,9 +15,9 @@ entries:
     version: 6.0.0
   - apiVersion: v2
     appVersion: "6"
-    created: "2021-06-07T16:26:22.455377-07:00"
+    created: "2021-06-07T16:39:34.877588-07:00"
     description: Teleport is a unified access plane for your infrastructure
-    digest: 130dcac1f50e1c151949480e4ba9b57872fdf62bcb7e5c1dbeb3807a4246e076
+    digest: beea51c7f81c129861a1431f1979356ff20fb1a58afcd7ac859d581298bd9fb7
     icon: https://goteleport.com/images/logos/logo-teleport-square.svg
     keywords:
     - Teleport
@@ -28,9 +28,9 @@ entries:
   teleport-kube-agent:
   - apiVersion: v2
     appVersion: "6"
-    created: "2021-06-07T16:26:22.45727-07:00"
+    created: "2021-06-07T16:39:34.880049-07:00"
     description: Teleport provides a secure SSH and Kubernetes remote access solution that doesn't get in the way.
-    digest: 257b668400fa0f25cd3980f756696e3178d1e5a9c7c784f020cc509c2098471c
+    digest: b5bdc77780caffb8c2c9a29a304bff58e0efc9955fe99747f73e8e19b5cdcb3e
     icon: https://goteleport.com/images/logos/logo-teleport-square.svg
     keywords:
     - Teleport
@@ -40,7 +40,7 @@ entries:
     version: "6"
   - apiVersion: v2
     appVersion: "6"
-    created: "2021-06-07T16:26:22.456464-07:00"
+    created: "2021-06-07T16:39:34.879003-07:00"
     description: Teleport provides a secure SSH and Kubernetes remote access solution that doesn't get in the way.
     digest: 6703ba076e74b26c530127464f8aaebdac0367a73ea086dfaacb3ae153f8e6eb
     icon: https://goteleport.com/images/logos/logo-teleport-square.svg
@@ -50,4 +50,4 @@ entries:
     urls:
     - https://timothy-spencer.github.io/helm-charts/teleport-kube-agent-0.0.4.tgz
     version: 0.0.4
-generated: "2021-06-07T16:26:22.453164-07:00"
+generated: "2021-06-07T16:39:34.867492-07:00"
