@@ -3,7 +3,7 @@ entries:
   teleport-cluster:
   - apiVersion: v2
     appVersion: "6"
-    created: "2021-06-11T13:50:00.688086-07:00"
+    created: "2021-06-11T15:20:22.33691-07:00"
     description: Teleport is a unified access plane for your infrastructure
     digest: 0de679d3060b7c847eeaecff771d70d66c68f451a5a106efc485fac36e3f1091
     icon: https://goteleport.com/images/logos/logo-teleport-square.svg
@@ -15,9 +15,9 @@ entries:
     version: 6.0.0
   - apiVersion: v2
     appVersion: "6"
-    created: "2021-06-11T13:50:00.712329-07:00"
+    created: "2021-06-11T15:20:22.337767-07:00"
     description: Teleport is a unified access plane for your infrastructure
-    digest: 57dd375c082dc36431af771cf2eeaed0f1b4de43f0d6b42e9b4d17cdfecd7f1a
+    digest: 9876c2412f88f8b5df4e3e8b296d9cb883ce4ea2c0cf7b5296c5fbf2eb9555d1
     icon: https://goteleport.com/images/logos/logo-teleport-square.svg
     keywords:
     - Teleport
@@ -28,9 +28,9 @@ entries:
   teleport-kube-agent:
   - apiVersion: v2
     appVersion: "6"
-    created: "2021-06-11T13:50:00.736563-07:00"
+    created: "2021-06-11T15:20:22.340022-07:00"
     description: Teleport provides a secure SSH and Kubernetes remote access solution that doesn't get in the way.
-    digest: ee43a746c983f9d715c002eb1dbc0ba512d34baeae9524a48c0f5afa620000db
+    digest: e6312ad55e854011f47d7afcfdf8b97193d195eb06c86d44c0863d710d3358fa
     icon: https://goteleport.com/images/logos/logo-teleport-square.svg
     keywords:
     - Teleport
@@ -40,7 +40,7 @@ entries:
     version: "6"
   - apiVersion: v2
     appVersion: "6"
-    created: "2021-06-11T13:50:00.735161-07:00"
+    created: "2021-06-11T15:20:22.339191-07:00"
     description: Teleport provides a secure SSH and Kubernetes remote access solution that doesn't get in the way.
     digest: 6703ba076e74b26c530127464f8aaebdac0367a73ea086dfaacb3ae153f8e6eb
     icon: https://goteleport.com/images/logos/logo-teleport-square.svg
@@ -50,4 +50,4 @@ entries:
     urls:
     - https://timothy-spencer.github.io/helm-charts/teleport-kube-agent-0.0.4.tgz
     version: 0.0.4
-generated: "2021-06-11T13:50:00.687207-07:00"
+generated: "2021-06-11T15:20:22.335937-07:00"
